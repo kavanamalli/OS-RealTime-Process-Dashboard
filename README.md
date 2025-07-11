@@ -5,6 +5,7 @@ A graphical dashboard project built to monitor system processes in real-time. Th
 ## 🔧 Features
 - Real-time process tracking
 - Dynamic GUI updates when a process is created, terminated, or changed
+- Alerts for high CPU and memory usage (custom thresholds)
 - Graphical representation of CPU and memory usage
 - Dashboard with process metadata
 
@@ -14,7 +15,7 @@ A graphical dashboard project built to monitor system processes in real-time. Th
 - **Windows Explorer** – Process interface on Windows
 
 ## 📸 Screenshot
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](Images/dashbord_Screenshot.png)
 
 ## ⚙️ How to Run
 1. Install Prometheus and configure `prometheus.yml`
