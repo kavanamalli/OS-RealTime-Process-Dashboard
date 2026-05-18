@@ -33,4 +33,4 @@ A graphical dashboard project built to monitor system processes in real-time. Th
 ## 👩‍💻 Developer
 **Kavana B M**  
 Project for Operating Systems course  
-USN: 1NT22AD023  
+
